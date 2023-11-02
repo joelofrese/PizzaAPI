@@ -1,4 +1,4 @@
-# Pizza Inventory RESTful API
+# Pizza Inventory RESTful API, .NET
 
 This RESTful API is designed to manage a pizza inventory. It provides various endpoints for interacting with pizza data, including retrieving a list of all pizzas, getting a pizza by its ID, adding a new pizza, updating an existing pizza, and deleting a pizza.
 
