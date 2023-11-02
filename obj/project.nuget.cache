@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "b37UY8kKARslzbnAi+E8jQ1S2hnRRj9kui5/R6FOeExUBMNd3PHr0Dgvh+3RkgbM0qOLuEk8wWulrBTCzWEbEg==",
+  "success": true,
+  "projectFilePath": "/Users/joelofrese/Library/Mobile Documents/com~apple~CloudDocs/Code/Joe Code/Projects/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/joelofrese/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/joelofrese/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/joelofrese/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/joelofrese/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/joelofrese/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/joelofrese/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
